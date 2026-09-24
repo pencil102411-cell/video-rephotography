@@ -4,6 +4,12 @@
 
 把原片看作已经完成的表演，重新决定观众从哪里看：保留动作、对白、口型、视线和时间节奏，通过机位、焦段、构图、景深、运镜与切镜增加画面信息和情绪层次。
 
+## 效果对比
+
+[查看或下载「上下同步对比」视频](examples/上下同步对比.mp4)
+
+用户提供的上下同步对比演示，时长约 13.10 秒，画面尺寸 992×960。视频按原文件上传，保留画面与音轨。上下拼接用于展示对比，不代表重摄影输出需要分屏；进行新任务时，应单独提供对应的原视频母版。
+
 ## 能做什么
 
 - 根据原视频或用户提供的可信分析，建立源事件时间表，区分实测、用户提供、估计和未知信息。
@@ -57,6 +63,7 @@ git clone https://github.com/pencil102411-cell/video-rephotography.git (Join-Pat
 | [references/platform-notes.md](references/platform-notes.md) | 带核对日期的平台适配记录 |
 | [references/scenario-case.md](references/scenario-case.md) | Scenario 案例分析、来源与复用边界 |
 | [references/scenario-original-prompt.txt](references/scenario-original-prompt.txt) | 用户提供的上游提示词原文副本 |
+| [examples/上下同步对比.mp4](examples/上下同步对比.mp4) | 用户提供的上下同步对比演示视频 |
 
 ## 来源与验证边界
 
